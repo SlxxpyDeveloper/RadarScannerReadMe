@@ -72,7 +72,7 @@ This is an example of how to list things you need to use the software and how to
     "status_channel_id": "PLACE CHANNEL ID HERE",
     "statchan_update_interval": "900"
 }
-  ```
+```
 
 ### Installation
 
