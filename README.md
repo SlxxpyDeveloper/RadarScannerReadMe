@@ -76,17 +76,7 @@ ___
 
 ### FAQ
 
-* #### Does Admin bot stores my ID and Password for Webfront ?
-
-  + **No**, Admin bot retrieves **cookies** 🍪 from webfront which is saved and used for executing commands from Discord. Cookies are valid for 30 days or until host machine restart. You can successfully delete id and password in dm after login success message.
-
-* #### Why does the connect in serverinfo command not working ?
-
-  + Not all clients support **direct connect**. Even it supports I dont know its launch url. If you know the launch url for **direct connect** for any client contact me on [Discord](https://discord.gg/tGkbpCD)
-
-* #### Why not use a proper Sqlite database instead of Json database ?
-
-  + Sqlite Requires [Node-Gyp](https://github.com/nodejs/node-gyp) which is a hassle for most windows users. So for Advanced Users [Admin bot with Sqlite](https://github.com/Sparker-99/Admin-bot/tree/sqlite3) is available. There is no need for this tool in case of linux.
+To be determined...
 ___
 
 ### Contributers
