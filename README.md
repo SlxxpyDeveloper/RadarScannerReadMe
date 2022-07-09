@@ -53,8 +53,6 @@ Download [latest release](https://slxxpy.xyz/) and Extract into old version dire
 + Please backup or rename the file before updating.
 ___
 
-### Configuration
-
 #### Initial Configuration
 
 Create a discord application from [discord developers](https://discord.com/developers/applications), click on add bot and copy the token if you dont know how read this [Wiki](https://github.com/Sparker-99/Admin-bot/wiki/Creating-and-adding-a-bot)
@@ -62,8 +60,8 @@ Create a discord application from [discord developers](https://discord.com/devel
 * `token` &mdash; Insert the bot token
 * `prefix` &mdash; Insert the bot prefix that is used before commands like !help
 * `webfronturl` &mdash; Insert the IW4M Admin webfront url. In case of local refrain from using 127.0.0.1 or such use IPv4 or DHCP address.
-  + Example: https://nbsclan.org, http://192.168.1.2
-* `results_perpage` &mdash; Insert a number from **1** upto **10** to set number of results per page of status and players command
+  + Example: https://gilletteclan.com/, http://91.208.92.221:1624/
+___
 
  #### Optional Configuration
 
@@ -73,11 +71,7 @@ Create a discord application from [discord developers](https://discord.com/devel
   + `{s}` &mdash; total server count
  * `status_channel_id` &mdash; You can insert a discord channel's id to send autostatus on an interval
  * `statchan_update_interval` &mdash; Specifies how often the bot will update the autostatus in channel in seconds
- * `color` &mdash; You can insert a hex colour code to get that colour for all embed discord messages
- * `thumbnail_image_url` &mdash; You can insert an image link to get custom thumbnail for all embed discord messages
- * `footer` &mdash; You can insert a footer message to display as footer for all embed discord messages
- * `ownerid` &mdash; You can insert an admin's or bot owner's client id to lock botinfo for administrator or bot owner
- ___
+___
 
 ### FAQ
 
