@@ -30,9 +30,9 @@ ___
 
 Please downlod the latest versions:
 
-* [RadarScanner](https://github.com/Sparker-99/Admin-bot/releases) any version you wish to use!
-* [Node.js](https://nodejs.org/en/) version 16 *or newer*
-* [IW4M Admin](https://raidmax.org/IW4MAdmin) version 2022.02.02.2 *or newer*
+* [RadarScanner](https://github.com/Sparker-99/Admin-bot/releases) *any version you wish to use*
+* [Node.js](https://nodejs.org/en/) *version* 16 *or newer*
+* [IW4M Admin](https://raidmax.org/IW4MAdmin) *version* 2022.02.02.2 *or newer*
 ___
 
 ### Setup
