@@ -46,12 +46,12 @@ ___
 * Would highly recommend using visual studio for setting this up
 ___
 
-### Updating to new version
+### Updating to a new version
 
 Download [latest release](https://slxxpy.xyz/) and Extract into old version directory.
 + Existing `config.json` and `database` folder will be not overwritten by the update.
 + NOTE: any changes you've made in the discord files will be overwritten!.
-+ Please backup or rename the file before updating.
++ Please backup or rename the file before updating if you've made changes to the original code.
 ___
 
 #### Configuration
