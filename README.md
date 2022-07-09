@@ -30,10 +30,9 @@
   <p align="center">
     A simple discord bot that connects to any iw4m admin webfront.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Discord Support</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Website</strong></a>
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Discord Support</strong></a>
     <br />
     <br />
     
@@ -52,7 +51,12 @@ DISCLAIMER: Some files where used from the Sparker-99 Admin-bot to help me durin
 
 <!-- GETTING STARTED -->
 ## Getting Started
-First make sure to install node.js which you can install from here: [Node.js](https://nodejs.org/en/)
+First make sure to install [Node.js](https://nodejs.org/en/)
+*After installing you might need to restart your pc*
+
+Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) If you have troubles [Help creating a discord bot](https://github.com/reactiflux/discord-irc/wiki/)
+
+Afterwards please go into the config folder and then open the config.json file. From there you need to edit "admin_id" "webfronturl" "token". You can find your admin_id in your iw4mAdminSettings.json. Search for "Id"
 
 ### Prerequisites
 
