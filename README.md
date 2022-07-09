@@ -90,7 +90,9 @@ ___
 ___
 
 ### Contributers
-
+Most was coded by me however sense I used some files from [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot)
+I wont take all the credit ❤
+* [Slxxpy](https://github.com/SlxxpyDeveloper)
 * [Sparker](https://github.com/Sparker-99)
 * [Martian](https://github.com/saiteja-madha)
 * [Zwambro](https://github.com/Zwambro)
