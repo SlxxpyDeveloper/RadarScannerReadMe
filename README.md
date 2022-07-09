@@ -1,126 +1,130 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/SlxxpyDeveloper/test/blob/master/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <br />
+  <p>
+    <img src="./img/radar.png" width="546" alt="bot" />
+  </p>
+  <br />
+  <p>
+    <a href="https://discord.gg/zS6H3NSrKA"><img src="https://discord.com/api/guilds/993661865446092941/widget.json" alt="Discord" /></a>
+</p>
+</div>
 
-  <h3 align="center">RadarScanner</h3>
+### Version 1.0.0
 
-  <p align="center">
-    This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
-a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
-    <br />
-    <a href="https://discord.gg/zS6H3NSrKA"><strong>Discord Support</strong></a>
+_______
+
+### About
+
+**Admin bot** is a discord bot written in [Discord.js](https://discord.js.org). It allows you to view relatime game servers info, execute server commands directly from discord, view stats and much more. Command handler and event handler is added so feel free to extend commands and events.
+
+___
+
+### How it works
+<div align="center">
+  <br />
+  <p>
+    <img src="https://i.gyazo.com/3ac3bcc1fb16eade8d51cef0887448a2.png" width="750" alt="working" />
   </p>
 </div>
 
-<!-- HOW TO SET UP RADAR SCANNER -->
-## ABOUT
-[![Product Name Screen Shot][product-screenshot2]](https://example.com)
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+___
 
-DISCLAIMER: Some files where used from the [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot) to help me during this project.
-<!-- GETTING STARTED -->
-## GETTING STARTED
-First make sure to install [Node.js](https://nodejs.org/en/)
-After installing you might need to restart your pc
+### Download
 
-Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) 
-If you have troubles [Click here](https://github.com/reactiflux/discord-irc/wiki/)
+Latest binary builds are always available at:
 
+* [GitHub (Basic)](https://github.com/Sparker-99/Admin-bot/releases)
 
-### OPEN FILE
+___
 
-Now find your iw4m admin ID which is located in configuration file then iw4mAdminSettings.json. Scroll down and you should see your ID number.
-After that go into the bot files and open the config folder place your bot token, your admin ID, your webfront url, and if you want your channel id for auto status.
-* config.json
-  ```
-    "token": "YOUR BOT TOKEN HERE",
-    "admin_id": "YOUR IW4M ADMIN ID HERE",
-    "webfronturl": "YOUR WEBFRONT URL HERE",
-    "prefix": "!",
-    "custom_presence": "with {p}/{m} players",
-    "results_perpage": "10",
-    "status_channel_id": "PLACE CHANNEL ID HERE",
-    "statchan_update_interval": "900"
-    ```
+### Setup
 
-### FINAL STEPS
+**Admin bot** requires less effort to get up and running.
 
-Download [Visual Studio Code](https://code.visualstudio.com/). This will make life easier ❤
-Once you open visual studio click on file, then open folder, then select the RadarScanner bot folder. Then click on terminal and then new terminal.
-1. Type in
-   ```
-   npm init 
-   ```
-3. Type in 
-   ```
-   npm i
-   ```
-4. Now run the StartRadarScanner.cmd or type in
-   ```js
-   node .
-   ```
+#### Prerequisites
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+* [Node.js 16](https://nodejs.org/en/download) *or newer*
+* [IW4M Admin](https://raidmax.org/IW4MAdmin) version 2022.02.02.2 *or newer*
 
-<!-- ACKNOWLEDGMENTS -->
-## CREDITS
+#### Installation
 
-[Slxxpy](https://github.com/SlxxpyDeveloper)
+* Windows
+  + Install Node.js
+  + Extract `Admin-bot.zip`
+  + Rename `config_default.json` as `config.json`
+  + Edit `config.json` (add your token, prefix, webfronturl and adminid)
+  + Open console inside the **admin bot's** directory, type `npm i` and hit enter
+  + Run `StartAdminBot.cmd` or `npm start` in command prompt
 
+* Linux (Ubuntu 20:04)
+  + Open Terminal and type:
+  + `sudo apt install nodejs npm`
+  + `mkdir DiscordBot`
+  + `cd DiscordBot`
+  + `git clone https://github.com/Sparker-99/Admin-bot.git`
+  + `cd Admin-bot`
+  + `npm i`
+  + `cp config_default.json config.json`
+  + `nano config.json` (add your token, prefix, webfronturl and adminid)
+  + `chmod +x ./StartAdminBot.sh`
+  + `./StartAdminBot.sh`
+To host the discordBot on any other Linux distro You have to install nodejs and npm for your distro, then the rest is the same on all other Linux Distro.
+___
 
+### Updating to new version
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://github.com/SlxxpyDeveloper/test/blob/master/images/screenshot.png
-[product-screenshot2]: https://github.com/SlxxpyDeveloper/test/blob/master/images/Screenshot2.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+Download [latest build](https://github.com/Sparker-99/Admin-bot/releases) and Extract into old version directory.
++ Existing `config.json` and `database` folder will be not overwritten by the update.
+  + NOTE: any update of the `config_default.json` need to be merged manually by the user to the `config.json`.
++ Any edit done on default `commands` files will be lost. Consider backup or rename the file before update.
++ Admin bot v3.0.5 or higher uses `Node 16` which kills any application with critical exceptions. So its recommended to use [PM2](https://pm2.keymetrics.io) or any program that restarts the bot.
+___
+
+### Configuration
+
+#### Initial Configuration
+
+Create a discord application from [discord developers](https://discord.com/developers/applications), click on add bot and copy the token if you dont know how read this [Wiki](https://github.com/Sparker-99/Admin-bot/wiki/Creating-and-adding-a-bot)
+
+* `token` &mdash; Insert the bot token
+* `prefix` &mdash; Insert the bot prefix that is used before commands like !help
+* `webfronturl` &mdash; Insert the IW4M Admin webfront url. In case of local refrain from using 127.0.0.1 or such use IPv4 or DHCP address.
+  + Example: https://nbsclan.org, http://192.168.1.2
+* `results_perpage` &mdash; Insert a number from **1** upto **10** to set number of results per page of status and players command
+
+ #### Optional Configuration
+
+* `custom_presence` &mdash; You can set bot's custom presence. Use this following parameters below
+  + `{m}` &mdash; max players count
+  + `{p}` &mdash; players online count
+  + `{s}` &mdash; total server count
+ * `status_channel_id` &mdash; You can insert a discord channel's id to send autostatus on an interval
+ * `statchan_update_interval` &mdash; Specifies how often the bot will update the autostatus in channel in seconds
+ * `color` &mdash; You can insert a hex colour code to get that colour for all embed discord messages
+ * `thumbnail_image_url` &mdash; You can insert an image link to get custom thumbnail for all embed discord messages
+ * `footer` &mdash; You can insert a footer message to display as footer for all embed discord messages
+ * `ownerid` &mdash; You can insert an admin's or bot owner's client id to lock botinfo for administrator or bot owner
+ ___
+
+### FAQ
+
+* #### Does Admin bot stores my ID and Password for Webfront ?
+
+  + **No**, Admin bot retrieves **cookies** 🍪 from webfront which is saved and used for executing commands from Discord. Cookies are valid for 30 days or until host machine restart. You can successfully delete id and password in dm after login success message.
+
+* #### Why does the connect in serverinfo command not working ?
+
+  + Not all clients support **direct connect**. Even it supports I dont know its launch url. If you know the launch url for **direct connect** for any client contact me on [Discord](https://discord.gg/tGkbpCD)
+
+* #### Why not use a proper Sqlite database instead of Json database ?
+
+  + Sqlite Requires [Node-Gyp](https://github.com/nodejs/node-gyp) which is a hassle for most windows users. So for Advanced Users [Admin bot with Sqlite](https://github.com/Sparker-99/Admin-bot/tree/sqlite3) is available. There is no need for this tool in case of linux.
+___
+
+### Contributers
+
+* [Sparker](https://github.com/Sparker-99)
+* [Martian](https://github.com/saiteja-madha)
+* [Zwambro](https://github.com/Zwambro)
+* [Pickle Rick](https://github.com/LelieL91)
+* [Insanemode](https://github.com/INSANEMODE)
