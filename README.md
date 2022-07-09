@@ -30,12 +30,7 @@
   <p align="center">
     A simple discord bot that connects to any iw4m admin webfront.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Website</strong></a>
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Discord Support</strong></a>
-    <br />
-    <br />
-    
   </p>
 </div>
 
