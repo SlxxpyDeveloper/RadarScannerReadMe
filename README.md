@@ -74,7 +74,8 @@ After that go into the bot files and open the config folder place your bot token
     "results_perpage": "10",
     "status_channel_id": "PLACE CHANNEL ID HERE",
     "statchan_update_interval": "900"
-}```
+    }
+    ```
 
 ### Installation
 
