@@ -28,7 +28,7 @@
   <h3 align="center">RadarScanner</h3>
 
   <p align="center">
-    A simple discord bot to connect to any iw4m admin webfront.
+    A simple discord bot to connects to any iw4m admin webfront.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Discord Server</strong></a>
     <br />
