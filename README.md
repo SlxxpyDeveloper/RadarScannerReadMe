@@ -47,14 +47,11 @@
 This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
 a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
 
-Disclaimer: 3 files was used in helping me for this project originally from the Sparker-99 Admin-bot
-Sparker-99 Admin-bot core.js, dbutils.js, and ready.js
+DISCLAIMER: Some files where used from the Sparker-99 Admin-bot to help me during this project. Please feel free to check that project 👍
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+First make sure to install node.js which you can install from here: [Node.js](https://nodejs.org/en/)
 
 ### Prerequisites
 
