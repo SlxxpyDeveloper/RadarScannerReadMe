@@ -52,15 +52,16 @@ DISCLAIMER: Some files where used from the Sparker-99 Admin-bot to help me durin
 <!-- GETTING STARTED -->
 ## GETTING STARTED
 First make sure to install [Node.js](https://nodejs.org/en/)
-*After installing you might need to restart your pc*
+After installing you might need to restart your pc
 
 Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) 
-*If you have troubles* [Click here](https://github.com/reactiflux/discord-irc/wiki/)
+If you have troubles [Click here](https://github.com/reactiflux/discord-irc/wiki/)
 
 
 ### OPEN FILE
 
-This is an example of how to list things you need to use the software and how to install them.
+Now find your iw4m admin ID which is located in configuration file then iw4mAdminSettings.json. Scroll down and you should see your ID number.
+After that go into the bot files and open the config folder place your bot token, your admin ID, your webfront url, and if you want your channel id for auto status.
 * config.json
   ```{
     "token": "YOUR BOT TOKEN HERE",
