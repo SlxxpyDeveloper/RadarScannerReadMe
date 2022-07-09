@@ -50,20 +50,28 @@ a specific channel you assign. More updates will include a login so you can exec
 DISCLAIMER: Some files where used from the Sparker-99 Admin-bot to help me during this project. Please feel free to check that project 👍
 
 <!-- GETTING STARTED -->
-## Getting Started
+## GETTING STARTED
 First make sure to install [Node.js](https://nodejs.org/en/)
 *After installing you might need to restart your pc*
 
 Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) 
-*If you have troubles*[Click here](https://github.com/reactiflux/discord-irc/wiki/)
+*If you have troubles* [Click here](https://github.com/reactiflux/discord-irc/wiki/)
 
 
-### Prerequisites
+### OPEN FILE
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+* config.json
+  ```{
+    "token": "YOUR BOT TOKEN HERE",
+    "admin_id": "YOUR IW4M ADMIN ID HERE",
+    "webfronturl": "YOUR WEBFRONT URL HERE",
+    "prefix": "!",
+    "custom_presence": "with {p}/{m} players",
+    "results_perpage": "10",
+    "status_channel_id": "PLACE CHANNEL ID HERE",
+    "statchan_update_interval": "900"
+}
   ```
 
 ### Installation
