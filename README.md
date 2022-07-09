@@ -54,9 +54,9 @@ DISCLAIMER: Some files where used from the Sparker-99 Admin-bot to help me durin
 First make sure to install [Node.js](https://nodejs.org/en/)
 *After installing you might need to restart your pc*
 
-Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) If you have troubles [Help creating a discord bot](https://github.com/reactiflux/discord-irc/wiki/)
+Then create your discord bot on [Discord Developer](https://discord.com/developers/applications) 
+*If you have troubles*[Click here](https://github.com/reactiflux/discord-irc/wiki/)
 
-Afterwards please go into the config folder and then open the config.json file. From there you need to edit "admin_id" "webfronturl" "token". You can find your admin_id in your iw4mAdminSettings.json. Search for "Id"
 
 ### Prerequisites
 
