@@ -33,7 +33,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Discord Server</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Discord Server</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Website</strong></a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>My Discord Server</strong></a>
   </p>
@@ -48,28 +48,6 @@
 
 This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
 a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
