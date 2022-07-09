@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <img src="./images/radar.png" width="546" alt="bot" />
+    <img src="./images/new.png" width="546" alt="bot" />
   </p>
 </div>
 
