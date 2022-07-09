@@ -53,7 +53,7 @@ Download [latest release](https://slxxpy.xyz/) and Extract into old version dire
 + Please backup or rename the file before updating.
 ___
 
-#### Initial Configuration
+#### Configuration
 
 Create a discord application from [discord developers](https://discord.com/developers/applications), click on add bot and copy the token if you dont know how read this [Wiki](https://github.com/Sparker-99/Admin-bot/wiki/Creating-and-adding-a-bot)
 
@@ -61,6 +61,7 @@ Create a discord application from [discord developers](https://discord.com/devel
 * `prefix` &mdash; Insert the bot prefix that is used before commands like !help
 * `webfronturl` &mdash; Insert the IW4M Admin webfront url. In case of local refrain from using 127.0.0.1 or such use IPv4 or DHCP address.
   + Example: https://gilletteclan.com/, http://91.208.92.221:1624/
+* `admin_id` &mdash; you can find this in your iw4m admin folder, then configuration folder, then open iw4mAdminSettings.json, and search "Id".
 ___
 
  #### Optional Configuration
