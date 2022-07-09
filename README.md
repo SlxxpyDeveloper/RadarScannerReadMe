@@ -35,17 +35,10 @@ a specific channel you assign. More updates will include a login so you can exec
   </p>
 </div>
 
-
-
 <!-- HOW TO SET UP RADAR SCANNER -->
 ## ABOUT
 [![Product Name Screen Shot][product-screenshot2]](https://example.com)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-
-This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
-a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
 
 DISCLAIMER: Some files where used from the [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot) to help me during this project. Please feel free to check that project out!
 <!-- GETTING STARTED -->
