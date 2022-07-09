@@ -71,13 +71,12 @@ After that go into the bot files and open the config folder place your bot token
     "statchan_update_interval": "900"
     ```
 
-### Installation
+### FINAL STEPS
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
+Download [Visual Studio Code](https://code.visualstudio.com/) will make life easier ❤
+Once you open visual studio click on file, then open folder, then select the folder. Then click on terminal and then new terminal.
+1. Type in 
+   ```Terminal
    git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Install NPM packages
