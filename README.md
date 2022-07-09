@@ -28,45 +28,21 @@ ___
 
 ### Download
 
-Please downlod the latest versions:
+Please downlod the latest versions of:
 
 * [RadarScanner](https://github.com/Sparker-99/Admin-bot/releases) *any version you wish to use*
 * [Node.js](https://nodejs.org/en/) *version* 16 *or newer*
 * [IW4M Admin](https://raidmax.org/IW4MAdmin) *version* 2022.02.02.2 *or newer*
 ___
 
-### Setup
-
-**Keep in mind that some steps can be skipped if ** RadarScanner
-
-#### Prerequisites
-
-* [Node.js 16](https://nodejs.org/en/download) *or newer*
-* [IW4M Admin](https://raidmax.org/IW4MAdmin) version 2022.02.02.2 *or newer*
-
-#### Installation
+### Installation
 
 * Windows
   + Install Node.js
-  + Extract `Admin-bot.zip`
-  + Rename `config_default.json` as `config.json`
+  + Extract `RadarScanner.zip`
   + Edit `config.json` (add your token, prefix, webfronturl and adminid)
-  + Open console inside the **admin bot's** directory, type `npm i` and hit enter
-  + Run `StartAdminBot.cmd` or `npm start` in command prompt
-
-* Linux (Ubuntu 20:04)
-  + Open Terminal and type:
-  + `sudo apt install nodejs npm`
-  + `mkdir DiscordBot`
-  + `cd DiscordBot`
-  + `git clone https://github.com/Sparker-99/Admin-bot.git`
-  + `cd Admin-bot`
-  + `npm i`
-  + `cp config_default.json config.json`
-  + `nano config.json` (add your token, prefix, webfronturl and adminid)
-  + `chmod +x ./StartAdminBot.sh`
-  + `./StartAdminBot.sh`
-To host the discordBot on any other Linux distro You have to install nodejs and npm for your distro, then the rest is the same on all other Linux Distro.
+  + Open console inside the **RadarScanner's** directory, type `npm i` and hit enter
+  + Run `StartRadarScanner.cmd` or `node .` in command prompt
 ___
 
 ### Updating to new version
