@@ -33,9 +33,9 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Discord Server</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">My Website</a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>My Discord Server</strong></a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Sparker-99 Admin-bot</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>My Discord Server</strong></a>
   </p>
 </div>
 
