@@ -1,15 +1,15 @@
 <div align="center">
   <br />
   <p>
-    <img src="./img/radar.png" width="546" alt="bot" />
+    <img src="../img/radar.png" width="546" alt="bot" />
   </p>
   <br />
   <p>
-    <a href="https://discord.gg/zS6H3NSrKA"><img src="https://discord.com/api/guilds/993661865446092941/widget.json" alt="Discord" /></a>
+    <a href="https://discord.gg/zS6H3NSrKA"><img src="https://discord.com/api/guilds/389745592232050688/embed.png" alt="Discord server" /></a>
 </p>
 </div>
 
-### Version 1.0.0
+### Version 3.0.7
 
 _______
 
