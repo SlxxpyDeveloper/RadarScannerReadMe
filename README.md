@@ -30,7 +30,7 @@
   <p align="center">
     A simple discord bot that connects to any iw4m admin webfront.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Discord Support</strong></a>
+    <a href="https://discord.gg/zS6H3NSrKA"><strong>Discord Support</strong></a>
   </p>
 </div>
 
@@ -90,48 +90,15 @@ Once you open visual studio click on file, then open folder, then select the fol
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## CREDITS
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+*[Slxxpy](https://github.com/SlxxpyDeveloper)
+*[Sparker](https://github.com/Sparker-99)
+*[Martian](https://github.com/saiteja-madha)
+*[Zwambro](https://github.com/Zwambro)
+*[PickleRick](https://github.com/LelieL91)
+*[Insanemode](https://github.com/INSANEMODE)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
