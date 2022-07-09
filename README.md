@@ -75,17 +75,17 @@ After that go into the bot files and open the config folder place your bot token
 
 Download [Visual Studio Code](https://code.visualstudio.com/) will make life easier ❤
 Once you open visual studio click on file, then open folder, then select the folder. Then click on terminal and then new terminal.
-1. Type in 
-   ```Terminal
-   git clone https://github.com/your_username_/Project-Name.git
+1. Type in then hit enter
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+   npm init 
    ```
-4. Enter your API in `config.js`
+3. Type in then hit enter
+   ```
+   npm i
+   ```
+4. Now run the StartRadarScanner.cmd or type in and then enter
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   node .
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
