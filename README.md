@@ -19,7 +19,7 @@ ___
 <div align="center">
   <br />
   <p>
-    <img src="./images/screenshot1.png" width="750" alt="working" />
+    <img src="./images/screenshot1.png" width="100" alt="working" />
   </p>
 </div>
 
