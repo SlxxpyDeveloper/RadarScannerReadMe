@@ -5,13 +5,13 @@
   </p>
 </div>
 
-### Version 3.0.7
+### Version 1.0.0
 
 _______
 
 ### About
 
-**Admin bot** is a discord bot written in [Discord.js](https://discord.js.org). It allows you to view relatime game servers info, execute server commands directly from discord, view stats and much more. Command handler and event handler is added so feel free to extend commands and events.
+**RadarScanner** is my own verson of [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot). For example this version has new updated embeds using discord buttons to easily connect to the specific server you search. More updates are comming soon and more features will be enabled once everything is stable.
 
 ___
 
@@ -19,7 +19,7 @@ ___
 <div align="center">
   <br />
   <p>
-    <img src="https://i.gyazo.com/3ac3bcc1fb16eade8d51cef0887448a2.png" width="750" alt="working" />
+    <img src="./img/screenshot1.png" width="750" alt="working" />
   </p>
 </div>
 
