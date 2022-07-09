@@ -40,7 +40,7 @@ a specific channel you assign. More updates will include a login so you can exec
 [![Product Name Screen Shot][product-screenshot2]](https://example.com)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-DISCLAIMER: Some files where used from the [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot) to help me during this project. Please feel free to check that project out!
+DISCLAIMER: Some files where used from the [Sparker-99 Admin-bot](https://github.com/Sparker-99/Admin-bot) to help me during this project.
 <!-- GETTING STARTED -->
 ## GETTING STARTED
 First make sure to install [Node.js](https://nodejs.org/en/)
@@ -67,8 +67,8 @@ After that go into the bot files and open the config folder place your bot token
 
 ### FINAL STEPS
 
-Download [Visual Studio Code](https://code.visualstudio.com/) will make life easier ❤
-Once you open visual studio click on file, then open folder, then select the folder. Then click on terminal and then new terminal.
+Download [Visual Studio Code](https://code.visualstudio.com/). This will make life easier ❤
+Once you open visual studio click on file, then open folder, then select the RadarScanner bot folder. Then click on terminal and then new terminal.
 1. Type in
    ```
    npm init 
