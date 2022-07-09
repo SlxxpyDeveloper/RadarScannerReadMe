@@ -28,15 +28,16 @@ ___
 
 ### Download
 
-Latest binary builds are always available at:
+Please downlod the latest versions:
 
-* [GitHub (Basic)](https://github.com/Sparker-99/Admin-bot/releases)
-
+* [RadarScanner](https://github.com/Sparker-99/Admin-bot/releases) any version you wish to use!
+* [Node.js](https://nodejs.org/en/) version 16 *or newer*
+* [IW4M Admin](https://raidmax.org/IW4MAdmin) version 2022.02.02.2 *or newer*
 ___
 
 ### Setup
 
-**Admin bot** requires less effort to get up and running.
+**Keep in mind that some steps can be skipped if ** RadarScanner
 
 #### Prerequisites
 
