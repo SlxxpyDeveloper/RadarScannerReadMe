@@ -26,10 +26,10 @@
   </a>
 
   <h3 align="center">RadarScanner</h3>
-This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
-a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
+
   <p align="center">
-    
+    This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
+a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
     <br />
     <a href="https://discord.gg/zS6H3NSrKA"><strong>Discord Support</strong></a>
   </p>
