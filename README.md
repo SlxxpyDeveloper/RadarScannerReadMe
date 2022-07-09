@@ -15,11 +15,12 @@ _______
 
 ___
 
-### How it works
+### Screenshots
 <div align="center">
   <br />
   <p>
-    <img src="./images/screenshot1.png" width="400" alt="working" />
+    <img src="./images/screenshot1.png" width="300" alt="working" />
+    <img src="./images/screenshot2.png" width="300" alt="working" />
   </p>
 </div>
 
