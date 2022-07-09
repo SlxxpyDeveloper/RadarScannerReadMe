@@ -87,12 +87,8 @@ Once you open visual studio click on file, then open folder, then select the Rad
 <!-- ACKNOWLEDGMENTS -->
 ## CREDITS
 
-*[Slxxpy](https://github.com/SlxxpyDeveloper)
-*[Sparker](https://github.com/Sparker-99)
-*[Martian](https://github.com/saiteja-madha)
-*[Zwambro](https://github.com/Zwambro)
-*[PickleRick](https://github.com/LelieL91)
-*[Insanemode](https://github.com/INSANEMODE)
+[Slxxpy](https://github.com/SlxxpyDeveloper)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
