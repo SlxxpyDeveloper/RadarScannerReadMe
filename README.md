@@ -55,7 +55,8 @@ If you have troubles [Click here](https://github.com/reactiflux/discord-irc/wiki
 Now find your iw4m admin ID which is located in configuration file then iw4mAdminSettings.json. Scroll down and you should see your ID number.
 After that go into the bot files and open the config folder place your bot token, your admin ID, your webfront url, and if you want your channel id for auto status.
 * config.json
-  ```"token": "YOUR BOT TOKEN HERE",
+  ```
+    "token": "YOUR BOT TOKEN HERE",
     "admin_id": "YOUR IW4M ADMIN ID HERE",
     "webfronturl": "YOUR WEBFRONT URL HERE",
     "prefix": "!",
