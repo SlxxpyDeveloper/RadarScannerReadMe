@@ -44,8 +44,8 @@
 <!-- HOW TO SET UP RADAR SCANNER -->
 ## ABOUT
 
-[![Product Name Screen Shot][product-screenshot]
-[![Product Name Screen Shot][product-screenshot2]
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot2]](https://example.com)
 
 This discord bot is my own version of the Sparker-99 Admin-bot. This bot allows you to simple check server status, server list, and allows auto status for
 a specific channel you assign. More updates will include a login so you can execute iw4m commands through discord.
@@ -66,8 +66,7 @@ If you have troubles [Click here](https://github.com/reactiflux/discord-irc/wiki
 Now find your iw4m admin ID which is located in configuration file then iw4mAdminSettings.json. Scroll down and you should see your ID number.
 After that go into the bot files and open the config folder place your bot token, your admin ID, your webfront url, and if you want your channel id for auto status.
 * config.json
-  ```{
-    "token": "YOUR BOT TOKEN HERE",
+  ```"token": "YOUR BOT TOKEN HERE",
     "admin_id": "YOUR IW4M ADMIN ID HERE",
     "webfronturl": "YOUR WEBFRONT URL HERE",
     "prefix": "!",
@@ -75,7 +74,6 @@ After that go into the bot files and open the config folder place your bot token
     "results_perpage": "10",
     "status_channel_id": "PLACE CHANNEL ID HERE",
     "statchan_update_interval": "900"
-    }
     ```
 
 ### Installation
