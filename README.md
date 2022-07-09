@@ -43,6 +43,7 @@ ___
   + Edit `config.json` (add your token, prefix, webfronturl and adminid)
   + Open console inside the **RadarScanner's** directory, type `npm i` and hit enter
   + Run `StartRadarScanner.cmd` or `node .` in command prompt
+* Would highly recommend using visual studio for setting this up
 ___
 
 ### Updating to new version
