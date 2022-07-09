@@ -20,7 +20,7 @@ ___
   <br />
   <p>
     <img src="./images/screenshot1.png" width="300" alt="working" />
-    <img src="./images/screenshot2.png" width="280" alt="working" />
+    <img src="./images/screenshot2.png" width="270" alt="working" />
   </p>
 </div>
 
